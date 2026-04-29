@@ -1,0 +1,27 @@
+Ticket ID: TKT-20481
+Date: 2026-04-27
+Customer: Priya Nair
+Product: MobileApp v4.2.1
+Priority: High
+
+Issue Description:
+The app keeps crashing after the last update. Very frustrating! I updated to version 4.2.1
+two days ago and ever since then, the app crashes every time I try to open the Reports section.
+I've tried restarting the phone, clearing the cache, and even reinstalling the app, but the
+problem persists. This is blocking my entire team from accessing weekly reports.
+
+Steps to Reproduce:
+1. Open the app and log in.
+2. Navigate to the Reports tab.
+3. App crashes immediately — no error message shown.
+
+Environment:
+- Device: Samsung Galaxy S23
+- OS: Android 14
+- App version: 4.2.1
+- Network: WiFi
+
+Additional Notes:
+This issue did not exist in version 4.1.9. We are a premium subscriber and this is causing
+significant disruption to our business operations. We need an urgent fix or a rollback option.
+Please treat this as high priority.
